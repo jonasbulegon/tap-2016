@@ -4,3 +4,6 @@ C:\Users\Microsoft User\Desktop\Ordenacao\bin\Debug\Ordenacao.pdb
 C:\Users\Microsoft User\Desktop\Ordenacao\obj\Debug\Ordenacao.csprojResolveAssemblyReference.cache
 C:\Users\Microsoft User\Desktop\Ordenacao\obj\Debug\Ordenacao.exe
 C:\Users\Microsoft User\Desktop\Ordenacao\obj\Debug\Ordenacao.pdb
+C:\Users\Microsoft User\Desktop\Ordenação\Ordenacao\bin\Debug\Ordenacao.exe.config
+C:\Users\Microsoft User\Desktop\Ordenação\Ordenacao\obj\Debug\Ordenacao.exe
+C:\Users\Microsoft User\Desktop\Ordenação\Ordenacao\obj\Debug\Ordenacao.pdb
