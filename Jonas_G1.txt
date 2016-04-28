@@ -1,0 +1,18 @@
+CVS: 0.4
+Resumo: 1.5
+Projeto: 4.7
+Nota G1: 6.6
+================
+Feedback Resumo
+================
+texto não justificado. sem parágrafo e espaçamento entre parágrafos.
+Tem título. 
+Diferenciou jogos e simuladores
+não escreveu uma opinião.
+====================
+Feedback Projeto
+====================
+Trabalho entregue corretamente dentro da pasta e repositório solicitados. Somente o nome da pasta deveria ter sido ordenacao e não Ordenacao.
+Implementou somente 3 métodos. Os métodos não imprimem na tela o vetor original e depois o vetor ordenado. 
+Não foi implementado o contador de tempo solicitado.E as referências? As Figuras saíram de que site?
+
